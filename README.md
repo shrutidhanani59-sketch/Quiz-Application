@@ -20,24 +20,24 @@ This is a <b>Quiz Application </b> ,  Making HTML , CSS , JavaScript . Next , Pr
 
 
 ## 🛠️ Technologies Used
--HTML
+HTML
 
--CSS
+CSS
 
--JavaScript
+JavaScript
 
 ## 📁 project Structure
 
--Quiz Application
+Quiz Application
 
--index.html
+index.html
 
--style.css
+style.css
 
--script.js
+script.js
 
--imges Folder
+imges Folder
 
 ## 📷 screenShort
 ![img1](imges/screenshort1.png)
-![img2](imges/screenshort2.png )
+![img2](imges/screenshort2.png)
