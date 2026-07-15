@@ -2,7 +2,7 @@
 
 This is a <b>Quiz Application </b> ,  Making HTML , CSS , JavaScript . Next , Previous  and Submit button also add . 
 
-🚀 Features
+## 🚀 Features
 
 📚 Multiple-choice questions
 ⏱️ Countdown timer for each question
@@ -13,18 +13,19 @@ This is a <b>Quiz Application </b> ,  Making HTML , CSS , JavaScript . Next , Pr
 🎨 Clean and modern UI
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML
 CSS
 JavaScript
 
-📁 project Structure
+## 📁 project Structure
 
 Quiz Application
 index.html
 style.css
 script.js
+imges Folder
 
-📷 screenShort
-![img1](screenshort1.png)
-![img2](screenshort2.png)
+## 📷 screenShort
+![img1](imges/screenshort1.png)
+![img2](imges/screenshort2.png )
