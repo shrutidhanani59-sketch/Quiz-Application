@@ -14,17 +14,17 @@ This is a <b>Quiz Application </b> ,  Making HTML , CSS , JavaScript . Next , Pr
 
 
 ## 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
 
 ## 📁 project Structure
 
-Quiz Application
-index.html
-style.css
-script.js
-imges Folder
+-Quiz Application
+-index.html
+-style.css
+-script.js
+-imges Folder
 
 ## 📷 screenShort
 ![img1](imges/screenshort1.png)
